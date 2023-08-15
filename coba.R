@@ -1,1 +1,2 @@
-x=
+data("AirPassengers")
+str(AirPassengers)
